@@ -1,6 +1,6 @@
 {
   "name": "@misaka-bot/sdk",
-  "version": "2.9.4",
+  "version": "2.10.0",
   "description": "MisakaBot SDK based on qq-guild-bot Node SDK",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"

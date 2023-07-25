@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.10.0](https://github.com/MisakaBot/bot-node-sdk/compare/v2.9.1...v2.10.0) (2023-07-25)
+
+
+### Features
+
+* add message button feature ([9980515](https://github.com/MisakaBot/bot-node-sdk/commit/998051528aaa21fd952c31bcf60389ea8094e361))
+* export OpenAPI and WebsocketClient types ([813298a](https://github.com/MisakaBot/bot-node-sdk/commit/813298a7025cef978153b190ca83c7bedaf5a381))
+* 事件分发添加事件ID ([dd9800e](https://github.com/MisakaBot/bot-node-sdk/commit/dd9800ec1cc8e0f305d70baab60dc31bf5fc9d91))
+* 修复依赖版本问题 ([fd053d5](https://github.com/MisakaBot/bot-node-sdk/commit/fd053d5f51ec6673b8bc11246796f2826aef1d7c))
+* 撤回消息API补充hidetip参数 ([#57](https://github.com/MisakaBot/bot-node-sdk/issues/57)) ([2bddf51](https://github.com/MisakaBot/bot-node-sdk/commit/2bddf513b4ee490f669f638abb7cc371e799b5a9))
+* 补齐INTERACTION事件，增加异步更新交互数据接口 ([#59](https://github.com/MisakaBot/bot-node-sdk/issues/59)) ([2f1f184](https://github.com/MisakaBot/bot-node-sdk/commit/2f1f18446553ab9943ece7d97eb1603e9c05ac93))
+
+
+### Bug Fixes
+
+* npm repo name ([c2f6125](https://github.com/MisakaBot/bot-node-sdk/commit/c2f6125b82fc0ec48be2cdb13c44d67d71fe9c4e))
+* npm repo private ([177f051](https://github.com/MisakaBot/bot-node-sdk/commit/177f0517d739866966e926723db025191593084e))
+* npm repo private ([68eeebb](https://github.com/MisakaBot/bot-node-sdk/commit/68eeebb45ba20364156fd1eff7d57ccbf4f146a1))
+
 ### [2.9.4](https://github.com/tencent-connect/bot-node-sdk/compare/v2.9.3...v2.9.4) (2022-05-18)
 
 
