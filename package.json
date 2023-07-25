@@ -95,7 +95,7 @@
     "type": "git",
     "url": "https://github.com/MisakaBot/bot-node-sdk.git"
   },
-  "author": "WitchElaina",
+  "author": "witchelaina",
   "license": "MIT",
   "homepage": "",
   "lint-staged": {
@@ -103,6 +103,5 @@
       "eslint --fix",
       "prettier --write"
     ]
-  },
-  "private": "false"
+  }
 }
