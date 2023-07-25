@@ -24,3 +24,5 @@ export function createOpenAPI(config: Config) {
 export function createWebsocket(config: GetWsParam) {
   return new WebsocketClient(config);
 }
+
+export { OpenAPI, WebsocketClient };

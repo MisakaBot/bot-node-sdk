@@ -1,7 +1,7 @@
 {
-  "name": "qq-guild-bot",
+  "name": "@misakabot/sdk",
   "version": "2.9.4",
-  "description": "QQ频道机器人NodeSDK",
+  "description": "MisakaBot SDK based on qq-guild-bot Node SDK",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
@@ -93,9 +93,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tencent-connect/bot-node-sdk.git"
+    "url": "https://github.com/MisakaBot/bot-node-sdk.git"
   },
-  "author": "joyqwang",
+  "author": "WitchElaina",
   "license": "MIT",
   "homepage": "",
   "lint-staged": {
